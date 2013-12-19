@@ -1,0 +1,1 @@
+C:\Users\Philip\Documents\XNA_GameDev_byExample\Projects\Speller\Speller\SpellerContent\obj\x86\Debug\SpellerContent.contentprojResolveAssemblyReference.cache

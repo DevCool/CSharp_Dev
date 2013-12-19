@@ -1,0 +1,8 @@
+C:\Users\Philip\Documents\XNA_GameDev_byExample\Projects\Speller\Speller\Speller\bin\x86\Debug\Speller.exe
+C:\Users\Philip\Documents\XNA_GameDev_byExample\Projects\Speller\Speller\Speller\bin\x86\Debug\Speller.pdb
+C:\Users\Philip\Documents\XNA_GameDev_byExample\Projects\Speller\Speller\Speller\obj\x86\Debug\Speller.csprojResolveAssemblyReference.cache
+C:\Users\Philip\Documents\XNA_GameDev_byExample\Projects\Speller\Speller\Speller\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philip\Documents\XNA_GameDev_byExample\Projects\Speller\Speller\Speller\obj\x86\Debug\Speller.exe
+C:\Users\Philip\Documents\XNA_GameDev_byExample\Projects\Speller\Speller\Speller\obj\x86\Debug\Speller.pdb
+C:\Users\Philip\Documents\XNA_GameDev_byExample\Projects\Speller\Speller\Speller\bin\x86\Debug\Content\square.xnb
+C:\Users\Philip\Documents\XNA_GameDev_byExample\Projects\Speller\Speller\Speller\bin\x86\Debug\Content\Segoe14.xnb
